@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.e4eb1411.css",
+    "main.css": "/react-website/static/css/main.0b613f0e.css",
     "main.js": "/react-website/static/js/main.27dde9c4.js",
     "static/js/787.2a7ba7f2.chunk.js": "/react-website/static/js/787.2a7ba7f2.chunk.js",
     "static/media/andrew-neel-jtsW--Z6bFw-unsplash.jpg": "/react-website/static/media/andrew-neel-jtsW--Z6bFw-unsplash.15782cc9f0364b970be4.jpg",
     "index.html": "/react-website/index.html",
-    "main.e4eb1411.css.map": "/react-website/static/css/main.e4eb1411.css.map",
+    "main.0b613f0e.css.map": "/react-website/static/css/main.0b613f0e.css.map",
     "main.27dde9c4.js.map": "/react-website/static/js/main.27dde9c4.js.map",
     "787.2a7ba7f2.chunk.js.map": "/react-website/static/js/787.2a7ba7f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4eb1411.css",
+    "static/css/main.0b613f0e.css",
     "static/js/main.27dde9c4.js"
   ]
 }
