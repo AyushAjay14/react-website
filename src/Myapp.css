@@ -310,7 +310,7 @@ strong:after {
       font-size: 0.69rem!important ;
   }
   .home{
-      height: 90vh;
+      height: 70vh;
   }
   .b{
       width: 4rem!important;
@@ -328,6 +328,21 @@ strong:after {
   .fa-5x {
     font-size: 11.34vw;
 }
+.heading-content{
+  top: 40%;
+}
+.fs-5{
+  font-size: 1em!important;
+}
+
+}
+@media screen and (max-width: 445px){
+  .fs-5{
+    font-size: .7em!important;
+  }
+  .fs-6{
+    font-size: .8em!important;
+  }
 }
 @media  screen and (max-width : 360px) {
     .intro_ul {
@@ -351,9 +366,18 @@ strong:after {
     .heading-content h3{
         font-size: 1.05em;
     }
+    .home{
+      height: 69vh;
+  }
+  .fs-5{
+    font-size: .7em!important;
+  }
 }
 @media screen and (max-width : 257px) {
     .fa-2x {
         font-size: 1.1em;
     }
+    .home{
+      height: 67vh!important;
+  }
 }
