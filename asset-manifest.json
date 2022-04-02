@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-website/static/css/main.795f4c7c.css",
-    "main.js": "/react-website/static/js/main.fc2d5334.js",
+    "main.css": "/react-website/static/css/main.e4eb1411.css",
+    "main.js": "/react-website/static/js/main.f9a83cdb.js",
     "static/js/787.2a7ba7f2.chunk.js": "/react-website/static/js/787.2a7ba7f2.chunk.js",
     "static/media/andrew-neel-jtsW--Z6bFw-unsplash.jpg": "/react-website/static/media/andrew-neel-jtsW--Z6bFw-unsplash.15782cc9f0364b970be4.jpg",
     "index.html": "/react-website/index.html",
-    "main.795f4c7c.css.map": "/react-website/static/css/main.795f4c7c.css.map",
-    "main.fc2d5334.js.map": "/react-website/static/js/main.fc2d5334.js.map",
+    "main.e4eb1411.css.map": "/react-website/static/css/main.e4eb1411.css.map",
+    "main.f9a83cdb.js.map": "/react-website/static/js/main.f9a83cdb.js.map",
     "787.2a7ba7f2.chunk.js.map": "/react-website/static/js/787.2a7ba7f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.795f4c7c.css",
-    "static/js/main.fc2d5334.js"
+    "static/css/main.e4eb1411.css",
+    "static/js/main.f9a83cdb.js"
   ]
 }
