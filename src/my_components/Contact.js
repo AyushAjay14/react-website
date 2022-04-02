@@ -41,22 +41,28 @@ function Contact(props) {
                         ></div>
                     <div className="col p-4">
                         <span style={props.mode==="dark"?{color: "rgb(255, 193, 7)"}:{}}>
-                            <i className={"fab fa-facebook-square marg fa-3x"}></i>
+                            <a href="https://www.facebook.com/ayush.ajay.142" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "rgb(255, 193, 7)"} : {color : "black"}}><i className={"fab fa-facebook-square marg fa-3x"}></i></a>
+                            
                         </span>
                         <span style={props.mode==="dark"?{color: "rgb(255, 193, 7)"}:{}}>
-                            <i className="fab fa-instagram-square marg fa-3x"></i>
+                        <a href="https://www.instagram.com/____a.y.u.s.h___/" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "rgb(255, 193, 7)"} : {color : "black"}}><i className="fab fa-instagram-square marg fa-3x"></i></a>
+                            
                         </span>
                         <span style={props.mode==="dark"?{color: "rgb(255, 193, 7)"}:{}}>
-                            <i className="fab fa-twitter-square marg fa-3x"></i>
+                        <a href="https://twitter.com/Ayushajay14" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "rgb(255, 193, 7)"} : {color : "black"}}><i className="fab fa-twitter-square marg fa-3x"></i></a>
+                            
                         </span>
                         <span style={props.mode==="dark"?{color: "rgb(255, 193, 7)"}:{}}>
-                            <i className="fab fa-linkedin marg fa-3x"></i>
+                        <a href="https://www.linkedin.com/in/ayush-ajay-6b6773207/" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "rgb(255, 193, 7)"} : {color : "black"}}><i className="fab fa-linkedin marg fa-3x"></i></a>
+                            
                         </span>
                         <span style={props.mode==="dark"?{color: "rgb(255, 193, 7)"}:{}}>
-                            <i className="far fa-envelope marg fa-3x"></i>
+                        <a href="mailto: ayushajay52@gmail.com" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "rgb(255, 193, 7)"} : {color : "black"}}><i className="far fa-envelope marg fa-3x"></i></a>
+                            
                         </span>
                         <span style={props.mode==="dark"?{color: "rgb(255, 193, 7)"}:{}}>
-                            <i className="fab fa-github fa-3x marg"></i>
+                        <a href="https://github.com/AyushAjay14" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "rgb(255, 193, 7)"} : {color : "black"}}><i className="fab fa-github fa-3x marg"></i></a>
+                            
                         </span>
                     </div>
                 </div>

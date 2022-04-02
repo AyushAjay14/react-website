@@ -1,5 +1,5 @@
 import React , {useState} from 'react'
-import 'E:/html/justnav/src/Myapp.css'
+import './Myapp.css'
 import Navbar2 from './my_components/navbar2'
 import About from './my_components/About'
 import Project from './my_components/Project';

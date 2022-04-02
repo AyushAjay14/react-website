@@ -49,12 +49,7 @@ function About(props) {
                 <div className="row" style={{ marginTop: "70px" }}>
                     <div className="col-md ">
                         <p id="my_p" style={{ fontSize: "1.06vw" }}>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus
-                            nihil aperiam excepturi, eveniet quisquam, ratione, natus pariatur
-                            et cum tempore optio! Sit iure ab aliquid deleniti, illo totam
-                            asperiores similique blanditiis. Atque consequatur dolore
-                            quibusdam exercitationem iure ipsam ex minus accusamus
-                            repudiandae, possimus nulla ipsum nisi, dolorum aut! Sit, neque.
+                        I am an undergraduate pursuing Bachelor of Technology in Electronics and Communication Engineering from IIT ISM Dhanbad. I am a Cyber Security enthusiast and also love development.I love playing online games and also outdoor sports in my free time.Music is my companion.I like to learn about new technologies, create mini projects, participate in hackathons.
                         </p>
                     </div>
                 </div>
@@ -78,19 +73,19 @@ function About(props) {
                             </li>
                             <li className="intro_li">
                                 <strong>Age</strong>
-                                20
+                                21
                             </li>
                             <li className="intro_li">
                                 <strong>Address</strong>
-                                Lorem ipsum dolor sit amet.
+                                Lucknow , Uttar Pradesh
                             </li>
                             <li className="intro_li">
-                                <strong>Programme</strong>
-                                Bachelor of Technology
+                                <strong>School</strong>
+                                Lucknow Public School.
                             </li>
                             <li className="intro_li">
-                                <strong>Department</strong>
-                                Electronics and Communication Engineering
+                                <strong>Board</strong>
+                                CBSE
                             </li>
                         </ul>
                     </div>
@@ -124,8 +119,8 @@ function About(props) {
                                 Second Year
                             </li>
                             <li className="intro_li">
-                                <strong>Not Decided</strong>
-                                Lorem ipsum dolor sit.
+                                <strong>CGPA</strong>
+                                8.75/10
                             </li>
                         </ul>
                     </div>
@@ -149,12 +144,12 @@ function About(props) {
                 </div>
                 <div className="row">
                     <div className="col social">
-                        <i className="fab fa-facebook-square marg fa-2x"></i>
-                        <i className="fab fa-instagram-square marg fa-2x"></i>
-                        <i className="fab fa-twitter-square marg fa-2x"></i>
-                        <i className="fab fa-linkedin marg fa-2x"></i>
-                        <i className="far fa-envelope marg fa-2x"></i>
-                        <i className="fab fa-github fa-2x marg"></i>
+                    <a href="https://www.facebook.com/ayush.ajay.142" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "white"} : {color : "black"}}><i className="fab fa-facebook-square marg fa-2x"> </i></a>
+                    <a href="https://www.instagram.com/____a.y.u.s.h___/" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "white"} : {color : "black"}}><i className="fab fa-instagram-square marg fa-2x"></i></a> 
+                    <a href="https://twitter.com/Ayushajay14" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "white"} : {color : "black"}}><i className="fab fa-twitter-square marg fa-2x"> </i></a>   
+                    <a href="https://www.linkedin.com/in/ayush-ajay-6b6773207/" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "white"} : {color : "black"}}><i className="fab fa-linkedin marg fa-2x"></i></a>   
+                    <a href="mailto: ayushajay52@gmail.com" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "white"} : {color : "black"}}><i className="far fa-envelope marg fa-2x"></i></a>   
+                    <a href="https://github.com/AyushAjay14" target="_blank" rel="noopener noreferrer" style={props.mode === "dark" ?{color : "white"} : {color : "black"}}><i className="fab fa-github fa-2x marg"></i></a>    
                     </div>
                 </div>
             </div>
@@ -164,11 +159,3 @@ function About(props) {
 
 export default About;
 
-{
-    /* <div className="col-md-6" style={{textAlign : "center"}}>
-  <img src={hat_logo} id="hat_logo" alt="hello" />
-  <div className="social">
-  
-  </div>
-  </div> */
-}

@@ -18,7 +18,7 @@ function Navbar2(props) {
         <>
             <nav className={`navbar fixed-top navbar-expand-xl navbar-dark my_navbar ${colorchange?"indisplay":"display"}`}>
                 <div className="container-fluid">
-                    <Link className="navbar-brand ms-3 my_navbar" spy={true} activeClass="active" to="myhome" smooth={true} duration={100}style={{cursor : "pointer"}}>Navbar</Link>
+                    <Link className="navbar-brand ms-3 my_navbar" spy={true} activeClass="active" to="myhome" smooth={true} duration={100}style={{cursor : "pointer"}}>Portfolio</Link>
                     <button className="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon "></span>
                     </button>
